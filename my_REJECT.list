@@ -1,0 +1,5 @@
+# 自定义阻断地址
+
+DOMAIN-SUFFIX,komect.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinamobiledevice.com
