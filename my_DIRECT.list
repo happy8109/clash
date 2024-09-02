@@ -1,4 +1,7 @@
 # 自定义直连地址
+
+SRC-IP-CIDR,192.168.11.200/32
+
 DOMAIN-KEYWORD,duolingo
 
 DOMAIN-SUFFIX,open.cd
