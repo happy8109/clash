@@ -4,6 +4,8 @@ https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
 
+https://whatshub.top/rule
+
 ```
 subconverter后端 Docker安装：
 安装命令：
