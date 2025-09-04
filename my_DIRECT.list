@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
+PROCESS-NAME,tailscaled
