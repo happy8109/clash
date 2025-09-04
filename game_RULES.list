@@ -1,6 +1,5 @@
 # 自定义游戏代理地址
 
-SRC-IP-CIDR,192.168.11.44/32
 DOMAIN-KEYWORD,turtle-wow
 
 #DOMAIN-SUFFIX,turtle-wow.org
