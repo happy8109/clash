@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 PROCESS-NAME,tailscaled
+DOMAIN-SUFFIX,mapbox.cn
+DOMAIN-SUFFIX,mapbox.com
