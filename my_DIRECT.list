@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,msftncsi.com
 PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,mapbox.com
+
+# VPS
+DOMAIN-SUFFIX,bwg.8109.uk
