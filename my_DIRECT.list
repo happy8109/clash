@@ -1,9 +1,17 @@
 # 自定义直连地址
 
 SRC-IP-CIDR,192.168.11.100/32
+SRC-IP-CIDR,192.168.11.44/32
+
 DST-PORT,54312
 DST-PORT,36750
+
+PROCESS-NAME,tailscaled
+
+DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,yfamilys
 DOMAIN-KEYWORD,tailscale
+
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,cmcc.wifi
 DOMAIN-SUFFIX,1ptba.com
@@ -12,12 +20,10 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-PROCESS-NAME,tailscaled
 DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,mapbox.com
-DOMAIN-KEYWORD,yfamilys
+DOMAIN-SUFFIX,openxlab.org.cn
+
 
 # VPS
 DOMAIN-SUFFIX,8109.uk
-
-
