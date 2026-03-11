@@ -24,6 +24,9 @@ DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,openxlab.org.cn
 
+# Cloudflare Tunnels
+DOMAIN-SUFFIX,argotunnel.com
 
 # VPS
 DOMAIN-SUFFIX,8109.uk
+
