@@ -29,5 +29,6 @@ DOMAIN-SUFFIX,openxlab.org.cn
 
 # VPS
 DOMAIN-SUFFIX,8109.uk
+SRC-IP-CIDR,45.62.111.5/32
 
 
