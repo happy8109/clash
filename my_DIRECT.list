@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,openxlab.org.cn
 # DOMAIN-SUFFIX,argotunnel.com
 
 # VPS
-DOMAIN-SUFFIX,8109.uk
+DOMAIN-SUFFIX,bwg.8109.uk
 SRC-IP-CIDR,45.62.111.5/32
 
 
