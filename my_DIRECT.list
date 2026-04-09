@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,openxlab.org.cn
 
+# huggingface
+DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
+
 # Cloudflare Tunnels
 # DOMAIN-SUFFIX,argotunnel.com
 
