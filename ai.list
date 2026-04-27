@@ -10,4 +10,7 @@ DOMAIN-SUFFIX,com.google.antigravity
 DOMAIN-SUFFIX,com.google.antigravity.helper
 DOMAIN-SUFFIX,antigravity-unleash.goog
 
+#NVIDIA
+DOMAIN-SUFFIX,api.nvidia.com
+
 DOMAIN-KEYWORD,perplexity
