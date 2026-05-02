@@ -6,11 +6,8 @@ SRC-IP-CIDR,192.168.11.44/32
 DST-PORT,54312
 DST-PORT,36750
 
-PROCESS-NAME,tailscaled
-
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,yfamilys
-DOMAIN-KEYWORD,tailscale
 
 DOMAIN-SUFFIX,sub.main.hitun.io
 DOMAIN-SUFFIX,ip.sb
@@ -37,4 +34,7 @@ DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
 DOMAIN-SUFFIX,bwg.8109.uk
 SRC-IP-CIDR,45.62.111.5/32
 
-
+# local
+PROCESS-NAME,tailscaled
+DOMAIN-KEYWORD,tailscale
+DOMAIN-SUFFIX,jsdelivr.net
