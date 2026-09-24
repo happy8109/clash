@@ -26,7 +26,14 @@ DOMAIN-SUFFIX,openxlab.org.cn
 DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
 
 # Cloudflare Tunnels
-# DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-KEYWORD,argotunnel
+DOMAIN-KEYWORD,region1.v2.argotunnel.com
+DOMAIN-KEYWORD,region2.v2.argotunnel.com
+DOMAIN-KEYWORD,cftunnel.com
+DOMAIN,api.cloudflare.com
+DOMAIN,login.cloudflare.com
+DOMAIN-SUFFIX,trycloudflare.com
 
 # VPS
 DOMAIN-SUFFIX,bwg.8109.uk
